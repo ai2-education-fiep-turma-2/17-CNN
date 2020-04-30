@@ -19,3 +19,4 @@
 * Executar código do mnist
 * Fazer teste com uma rede treinada (VGG16)
 * Utilizar a mesma topologia de rede neural usada para o problema minist, aplicando para o problema das abelhas
+* Compare o tempo de treino da rede neural CNN usando CPUxGPU
